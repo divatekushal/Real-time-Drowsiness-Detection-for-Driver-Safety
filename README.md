@@ -1,5 +1,4 @@
 # Real-Time Drowsiness Detection for Driver Safety
-## Output
 <div>
     <img src="output1.png" alt="output 1" style="width: 45%;">
     <img src="output2.jpg" alt="ouput 2" style="width: 45%;">
