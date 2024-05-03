@@ -1,5 +1,8 @@
 # Real-Time Drowsiness Detection for Driver Safety
-![output1](output1.png)   ![output2](output2.png)
+<div>
+    <img src="output1.png" alt="Image 1" style="width: 45%;">
+    <img src="output2.png" alt="Image 2" style="width: 45%;">
+</div>
 
 ## Overview
 This project aims to enhance driver safety by detecting drowsiness in real-time using computer vision and machine learning techniques. The system continuously monitors the driver's eyes through a webcam feed and alerts the driver when signs of drowsiness are detected.
