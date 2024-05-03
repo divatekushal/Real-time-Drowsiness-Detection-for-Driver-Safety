@@ -1,4 +1,5 @@
 # Real-Time Drowsiness Detection for Driver Safety
+## Output
 <div>
     <img src="output1.png" alt="output 1" style="width: 45%;">
     <img src="output2.jpg" alt="ouput 2" style="width: 45%;">
@@ -39,9 +40,3 @@ This command will install all the necessary Python libraries (`opencv-python`, `
 ## Output
 The system displays a real-time video feed from the webcam with overlaid rectangles indicating detected faces and eyes. When drowsiness is detected (i.e., prolonged eye closure), an alert is triggered, and a sound notification is played to warn the driver.
 
-## Contributors
-- [Your Name](https://github.com/yourusername)
-
----
-
-Feel free to customize this README file further to include any additional information or instructions specific to your project.
